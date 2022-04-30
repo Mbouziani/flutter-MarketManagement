@@ -1,0 +1,28 @@
+list of product
+Crud product 
+
+idPro
+namePro
+pricePro
+BCodrPro
+
+done
+
+
+list of sales
+Crud sales
+
+idSale
+dateSale
+Total Product
+Total price
+
+
+table of purchase product
+
+idPur
+idSale
+idPro
+Quntity
+priceTotal
+
