@@ -79,6 +79,11 @@ class WSaleListitem extends StatelessWidget {
             data: '\$25',
             fontClr: Colors.red,
           ),
+          trailing: const Icon(
+            Icons.arrow_forward_ios,
+            size: 15,
+            color: Colors.black38,
+          ),
         ),
       ),
     );
